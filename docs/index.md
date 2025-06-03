@@ -29,7 +29,7 @@ Este projeto foi desenvolvido seguindo a arquitetura de **microsserviços**, ond
 - **Auth:** autenticação e autorização de usuários.
 - **Account:** gerenciamento de informações de conta dos usuários.
 
-Todos os microsserviços são acessados por meio de um **API Gateway**, que centraliza as requisições e encaminha para o serviço correspondente, garantindo segurança, escalabilidade e organização da comunicação entre os componentes.
+Todos os microsserviços são acessados por meio de um **API Gateway**, que centraliza as requisições e encaminha para o serviço correspondente, garantindo segurança, escalabilidade e organização da comunicação entre os componentes. Você encontra mais informações sobre os microserviços e suas respectivas paginas
 
 Os microserviços podem ser visualizados neste diagrama:
 
@@ -55,36 +55,6 @@ flowchart LR
 
 
 ```
-
-
-Use o [Mermaid](https://mermaid.js.org/intro/){:target='_blank'} para criar os diagramas de documentação.
-
-[Mermaid Live Editor](https://mermaid.live/){:target='_blank'}
-
-
-``` mermaid
-flowchart TD
-    Deployment:::orange -->|defines| ReplicaSet
-    ReplicaSet -->|manages| pod((Pod))
-    pod:::red -->|runs| Container
-    Deployment -->|scales| pod
-    Deployment -->|updates| pod
-
-    Service:::orange -->|exposes| pod
-
-    subgraph  
-        ConfigMap:::orange
-        Secret:::orange
-    end
-
-    ConfigMap --> Deployment
-    Secret --> Deployment
-    classDef red fill:#f55
-    classDef orange fill:#ffa500
-```
-
-
-
 ## Códigos
 
 === "De um arquivo remoto"
