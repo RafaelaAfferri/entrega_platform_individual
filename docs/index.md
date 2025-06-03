@@ -55,7 +55,7 @@ flowchart LR
 
 
 ```
-## Códigos
+<!-- ## Códigos
 
 === "De um arquivo remoto"
 
@@ -92,4 +92,4 @@ Lorem ipsum dolor sit amet
 
 ## Referências
 
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/){:target='_blank'}
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/){:target='_blank'} -->
