@@ -56,6 +56,21 @@ flowchart LR
 
 ```
 
+## Repositórios do Projeto
+- [Gateway](https://github.com/RafaelaAfferri/store_gateway)
+- [Auth](https://github.com/RafaelaAfferri/store_auth)
+- [Auth-Service](https://github.com/RafaelaAfferri/store-auth-service)
+- [Account](https://github.com/RafaelaAfferri/account_store)
+- [Account-Service](https://github.com/RafaelaAfferri/store_account-service)
+- [Product](https://github.com/RafaelaAfferri/store_product)
+- [Product-Service](https://github.com/RafaelaAfferri/store-product-service)
+- [Order](https://github.com/RafaelaAfferri/store_order)
+- [Order-Service](https://github.com/RafaelaAfferri/order-service)
+- [Exchange](https://github.com/RafaelaAfferri/entrega_1_microservicos)
+Reposotório Antigo (Antes da Separação em repositórios diferentes)
+- [Platform](https://github.com/RafaelaAfferri/platform_microservicos)
+
+
 ## Vídeo de Demonstração da API
 
 Video da API em funcionamento:
