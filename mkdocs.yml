@@ -141,4 +141,7 @@ nav:
     - Gateway: ./microservicos/gateway.md
   - Jenkins: jenkins.md
   - Kubernetes: minikube.md
+  - Bottlenecks:
+    - Observabilidade: ./bottlenecks/observabilidade.md
+    - Cache: ./bottlenecks/cache.md
   
