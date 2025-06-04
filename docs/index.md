@@ -71,9 +71,13 @@ Reposotório Antigo (Antes da Separação em repositórios diferentes)
 - [Platform](https://github.com/RafaelaAfferri/platform_microservicos)
 
 
-## Vídeo de Demonstração da API
+## Demonstração da API
 
-Video da API em funcionamento:
+
+**Acesso à API:**
+A api pode ser acessada através do seguinte link: [http://abcad5ad7b3a448dea1af26b7b679e7f-1432887122.us-east-2.elb.amazonaws.com:8080](http://abcad5ad7b3a448dea1af26b7b679e7f-1432887122.us-east-2.elb.amazonaws.com:8080)
+
+**Video da API em funcionamento:**
 
 <iframe width="100%" height="470" src="https://www.youtube.com/embed/6WSbyoHiXQs?si=P81U6wc3atxW9C5Q" allowfullscreen></iframe>
 
